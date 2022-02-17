@@ -1,0 +1,9 @@
+1. first make a folder like :    mkdir uniswap-clone
+    go to the folder : cd uniswap-clone/
+
+2. yarn create next-app -e with-tailwindcss client
+3. create another 2 folder in root diroctory : mkdir studio and mkdir smart_contract
+
+client - next app 
+smart-contract - solidity
+studio -- sanity
